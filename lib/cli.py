@@ -11,7 +11,7 @@ def menu():
         print("4. Return a book")
         print("5. View all rentals")
         print("6. Exit")
-hahsgah
+
         choice = input("Enter choice: ")
 
         if choice == "1":
