@@ -1,0 +1,4 @@
+[packages]
+sqlalchemy = "*"
+alembic = "*"
+faker = "*"
